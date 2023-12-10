@@ -18,7 +18,7 @@ This project was developed without utilizing prepared statements due to a lack o
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Viral-City5.git
+   git clone https://github.com/WillGolden80742/Viral-City5.git
    cd Viral-City5
    ```
 
