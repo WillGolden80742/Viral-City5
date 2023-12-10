@@ -50,12 +50,3 @@ Viral-City5 is a project aimed at analyzing dengue test results and generating i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Special thanks to [OpenAI](https://www.openai.com/) for providing language models that assisted in the development of this project.
-- Inspired by the need for effective tools to analyze and manage dengue test data.
-
-```
-
-Feel free to customize the content according to your specific project details and requirements.
