@@ -10,11 +10,15 @@ Viral-City5 is a project aimed at analyzing dengue test results and generating i
 - **Outcome Analysis**: Track disease outcomes, including positive and negative results, and mortality rates.
 - **Random Test Data Generation**: Utilize the `RandonCasos` class to generate random test data for testing and development purposes.
 
+## Important Note
+
+This project was developed without utilizing prepared statements due to a lack of knowledge at the time of creation. As a result, it may be vulnerable to SQL injection attacks. Users cloning this repository should exercise caution and consider implementing prepared statements to enhance security.
+
 ## Getting Started
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/WillGolden80742/Viral-City5.git
+   git clone https://github.com/your-username/Viral-City5.git
    cd Viral-City5
    ```
 
@@ -50,3 +54,7 @@ Viral-City5 is a project aimed at analyzing dengue test results and generating i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Inspired by the need for effective tools to analyze and manage dengue test data.
