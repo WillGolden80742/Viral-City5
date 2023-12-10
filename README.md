@@ -14,7 +14,7 @@ Viral-City5 is a project aimed at analyzing dengue test results and generating i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Viral-City5.git
+   git clone https://github.com/WillGolden80742/Viral-City5.git
    cd Viral-City5
    ```
 
