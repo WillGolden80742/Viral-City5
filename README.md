@@ -49,7 +49,7 @@ This project was developed without utilizing prepared statements due to a lack o
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [WillGolden80742](https://github.com/willgolden80742/)
 
 ## License
 
